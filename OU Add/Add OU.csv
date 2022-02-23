@@ -1,0 +1,11 @@
+Name;Path
+Pfafdelingen;DC=poliforma,DC=local
+Directie;OU=Pfafdelingen,DC=poliforma,DC=local
+Staf;OU=Pfafdelingen,DC=poliforma,DC=local
+Verkoop;OU=Pfafdelingen,DC=poliforma,DC=local
+Administratie;OU=Pfafdelingen,DC=poliforma,DC=local
+Productie;OU=Pfafdelingen,DC=poliforma,DC=local
+Automatisering;OU=Pfafdelingen,DC=poliforma,DC=local
+Fabricage;OU=Productie,OU=Pfafdelingen,DC=poliforma,DC=local
+Inkoop;OU=Pfafdelingen,DC=poliforma,DC=local
+Techniek;OU=Pfafdelingen,DC=poliforma,DC=local
