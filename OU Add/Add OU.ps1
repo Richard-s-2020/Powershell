@@ -17,6 +17,7 @@ $ProtectedFromAccidentalDeletion = 0
 Write-Host $Path
 
 
+#controleren of OU exists in AD
 if ([ADSI]::Exists("LDAP://ou=$Name,$path")) {
 Write-Host "OU Exists in AD"
 }
