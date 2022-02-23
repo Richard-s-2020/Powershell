@@ -1,6 +1,10 @@
+#locatie of the map
 cd C:\Users\Administrator\Desktop\Ou
+
+#import ActiveDirectory
 Import-Module ActiveDirectory
 
+#import csv
 $Adou = Import-Csv -Path .\ou.csv -Delimiter ";"
 
 foreach($OU in $Adou)
